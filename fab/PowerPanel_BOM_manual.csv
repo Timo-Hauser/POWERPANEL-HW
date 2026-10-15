@@ -1,0 +1,8 @@
+Group,Comment,Designator,Footprint,MPN / description,LCSC Part #,Qty per board,Qty for 5 boards,Note
+HAND-FITTED,24V 150W,U9,PSU_MW-LRS-150_CASE241A,LRS-150-24,,1,5,"Mean Well LRS-150-24 (24 V 6.5 A, case 241A 159 x 97 x 30 mm). Not placed by JLC, not in the CPL. Buy separately, screw on from the outside face through the 2 NPTH 3.2 mm holes, wire to J3/J4 (AC) and J5/J6 (DC) after PCBA. HAND - BOUGHT SEPARATELY, SCREWED ON + WIRED AFTER PCBA (NOT JLC)"
+HAND-FITTED HARDWARE (BOM_Extra of U9),KAPTON SHEET,-,-,Polyimide (Kapton) sheet >= 165 x 103 x 0.1 mm,,1,5,"Insulation between the brick base and the board, under the brick. BOM_Extra: KAPTON SHEET >=165X103X0.1MM UNDER THE BRICK + 2X M3X4 SCREWS (WAFER HEAD OR ISO 10642, A-HV5)"
+HAND-FITTED HARDWARE (BOM_Extra of U9),M3X4 SCREW,-,-,"M3 x 4 screw, wafer head or countersunk ISO 10642 (screw type open: spec A-HV5)",,2,10,"Brick base holes, from the outside face. Check the max. screw depth into the LRS-150 case on the real brick."
+DNP,430V,RV1,VAR_CU4032,B72660M0271K072,C211138,1,5,"Do not populate (spec S4-08: cord-connected install, F1 SCT1032 100 A breaking). Footprint and paste stay; pads arrive tinned. Populate only with a >= 1.5 kA fuse."
+NOT A BOM PART,FID,"FID1,FID2,FID3",FIDUCIAL_1MM,-,,3,15,"Fiducial, 1 mm copper dot in a 1.5 mm mask opening (top)."
+NOT A BOM PART,M3,"MH1,MH2,MH3,MH4,MH5,MH6",MH-M3-NP,-,,6,30,"Mounting hole M3, NPTH 3.2 mm, no copper. 6 x M3 screws are enclosure hardware (spec), not ordered here."
+NOT A BOM PART,TP,"TP1,TP2,TP3,TP4,TP5,TP6,TP7,TP8,TP9,TP10,TP11,TP12,TP13,TP14,TP15,TP16,TP17,TP18,TP19,TP20,TP21,TP22,TP23,TP24,TP25,TP26,TP27,TP28,TP29,TP30,TP31,TP32,TP33,TP34,TP35,TP36,TP37",TESTPOINT,-,,37,185,Bare test pad on top.
