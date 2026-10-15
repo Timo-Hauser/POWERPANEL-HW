@@ -1,6 +1,6 @@
 # PowerPanel
 
-![3D render, angled](images/pcb/3d_angled.png)
+![3D render, angled](images/pcb/3d_angled_full.png)
 
 ## What it is
 
@@ -49,9 +49,11 @@ schematic symbols are embedded in the SchDocs, so no external library is needed 
 
 ## PCB
 
+![All renders](images/pcb/all_renders.png)
+
 | Top | Bottom (outside face) |
 |---|---|
-| ![Top](images/pcb/3d_top.png) | ![Bottom](images/pcb/3d_bottom.png) |
+| ![Top](images/pcb/3d_top_full.png) | ![Bottom](images/pcb/3d_bottom_full.png) |
 | ![Gerber top](images/pcb/gerber_top.png) | ![Gerber bottom](images/pcb/gerber_bottom.png) |
 
 ![Mean Well LRS-150-24 on the board](images/pcb/3d_psu_angled.png)
